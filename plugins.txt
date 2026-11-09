@@ -1,0 +1,17 @@
+Plugin: org.gradle.api.plugins.HelpTasksPlugin_Decorated
+Plugin: org.gradle.api.plugins.SoftwareReportingTasksPlugin_Decorated
+Plugin: org.gradle.buildinit.plugins.BuildInitPlugin_Decorated
+Plugin: org.gradle.buildinit.plugins.WrapperPlugin_Decorated
+Plugin: com.android.build.gradle.internal.plugins.VersionCheckPlugin
+Plugin: org.gradle.language.base.plugins.LifecycleBasePlugin_Decorated
+Plugin: org.gradle.api.plugins.BasePlugin_Decorated
+Plugin: org.gradle.api.plugins.JvmEcosystemPlugin_Decorated
+Plugin: org.gradle.api.plugins.ReportingBasePlugin_Decorated
+Plugin: org.gradle.api.plugins.JvmToolchainsPlugin_Decorated
+Plugin: org.gradle.api.plugins.JavaBasePlugin_Decorated
+Plugin: org.jetbrains.kotlin.gradle.plugin.KotlinBaseApiPlugin_Decorated
+Plugin: com.android.build.gradle.api.AndroidBasePlugin
+Plugin: com.android.build.gradle.internal.plugins.AppPlugin
+Plugin: com.android.build.gradle.AppPlugin
+Plugin: org.jetbrains.kotlin.compose.compiler.gradle.ComposeCompilerGradleSubplugin
+Plugin: org.gradle.kotlin.dsl.provider.plugins.KotlinScriptBasePlugin_Decorated
